@@ -10,7 +10,7 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-    "vue": "^2.5.11"
+    "vue": "^2.5.21"
   },
   "keywords": [
     "front-end",
@@ -18,15 +18,15 @@
     "web",
     "vue",
     "vuejs",
-	"vue2",
+    "vue2",
     "webpack",
     "selector",
-	"tableview",
-	"i18n",
-	"server-side",
-	"pagination",
-	"tags",
-	"multiple"
+    "tableview",
+    "i18n",
+    "server-side",
+    "pagination",
+    "tags",
+    "multiple"
   ],
   "browserslist": [
     "> 1%",
